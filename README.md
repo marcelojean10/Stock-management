@@ -1,6 +1,6 @@
 # Stock-management Gestão de Estoque
-Hey Guys, i'm on here sending my first project. myself  developed, since zero, watching tutorial where starting in PHP.
-Ei Galera, eu estou aqui enviando meu primeiro projeto. Eu mesmo em quem desenvolveu, desde o zero. Assistindo tutorial onde comecei a desenvolver em PHP.
+Hey Guys, i'm on here sending my first project. myself developed since zero, watching tutorial where starting in PHP.
+Ei Galera, eu estou aqui enviando meu primeiro projeto. Eu desenvolvi desde o zero, assistindo tutorial onde comecei a desenvolver em PHP.
 
 O intuito do projeto é afins de estudo nada elaborado como projeto.
 
@@ -50,4 +50,5 @@ Não cadastra a pessoa que tiver o mesmo nome e email e senha e niveldeacesso.
 
 senha nao criptografada.. pois está em fase de teste.
 
-Thankss.
+Thanks.
+
